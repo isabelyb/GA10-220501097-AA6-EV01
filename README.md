@@ -26,7 +26,8 @@ Este proyecto cumple con los requisitos de la evidencia implementando el desplie
 
 ### 2. Dominio Personalizado: Netlify Subdomain
 **Servicio:** Dominio personalizado gratuito incluido con el hosting  
-**Formato:** [nombre-proyecto].netlify.app
+**Formato:** [nombre-proyecto]-[hash-aleatorio].netlify.app  
+**Ejemplo:** radiant-snickerdoodle-9b6914.netlify.app
 
 ---
 
@@ -56,4 +57,16 @@ Este proyecto cumple con los requisitos de la evidencia implementando el desplie
 
 ### Documentación
 - **README.md** - Este documento
+- **EVIDENCIA_GA10-220501097-AA6-EV01.md** - Documento completo de evidencia
 - **netlify.toml** - Configuración de Netlify
+
+---
+
+## Resultado Final
+
+**Sitio web publicado y accesible desde internet mediante dirección personalizada.**
+
+### URLs del Proyecto
+- **Repositorio GitHub:** https://github.com/isabelyb/GA10-220501097-AA6-EV01
+- **Sitio Desplegado:** https://radiant-snickerdoodle-9b6914.netlify.app
+- **Estado:** ✅ Funcionando correctamente con todos los elementos
