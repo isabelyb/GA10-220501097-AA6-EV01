@@ -12,7 +12,7 @@ Este proyecto cumple con los requisitos de la evidencia implementando el desplie
 ## Plantilla Web Seleccionada
 
 ### Switch Template
-**Fuente:** https://bitbucket.org/pasqualevitiello/switch.git  
+**Fuente:** https://cruip.com/demos/switch/  
 **Tipo:** Plantilla HTML gratuita de internet  
 **Características:** Landing page responsive con tema dual (claro/oscuro)
 
@@ -26,8 +26,8 @@ Este proyecto cumple con los requisitos de la evidencia implementando el desplie
 
 ### 2. Dominio Personalizado: Netlify Subdomain
 **Servicio:** Dominio personalizado gratuito incluido con el hosting  
-**Formato:** [nombre-proyecto]-[hash-aleatorio].netlify.app  
-**Ejemplo:** radiant-snickerdoodle-9b6914.netlify.app
+**Formato:** [nombre-proyecto].netlify.app  
+**Ejemplo:** aa6-ev01.netlify.app
 
 ---
 
@@ -68,5 +68,5 @@ Este proyecto cumple con los requisitos de la evidencia implementando el desplie
 
 ### URLs del Proyecto
 - **Repositorio GitHub:** https://github.com/isabelyb/GA10-220501097-AA6-EV01
-- **Sitio Desplegado:** https://radiant-snickerdoodle-9b6914.netlify.app
-- **Estado:** ✅ Funcionando correctamente con todos los elementos
+- **Sitio Desplegado:** https://aa6-ev01.netlify.app
+- **Estado:** Funcionando correctamente con todos los elementos
